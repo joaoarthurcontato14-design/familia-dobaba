@@ -5,6 +5,6 @@
 // NÃO coloque aqui a "service_role key".
 
 window.DOBABA_CONFIG = {
-  SUPABASE_URL: "COLE_AQUI_O_PROJECT_URL",
-  SUPABASE_ANON_KEY: "COLE_AQUI_A_CHAVE_ANON_PUBLIC"
+  SUPABASE_URL: "https://knishdumetoipxveqoci.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_fqj2Khe6aE2Sip7bSsvAog_qmF5lJGQ"
 };
